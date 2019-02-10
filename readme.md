@@ -5,7 +5,7 @@
 - Python 3
 - pandas
 - matplotlib
--
+- csv
 
 ## histograms.py
 
@@ -13,4 +13,4 @@ There are two programs involved with this application. The first `histgrams.py` 
 
 ## perceptron.py
 
-This is the main program of this application. To run simply type `py perceptron.py`.
+This is the main program of this application. To run simply type `py perceptron.py`. The final accuracy is printed at the end of the programs execution. This test is run off different images than the training data.
